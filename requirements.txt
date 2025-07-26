@@ -1,0 +1,15 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+xgboost==1.7.6
+plotly==5.15.0
+streamlit==1.25.0
+selenium==4.11.2
+scrapy==2.10.0
+folium==0.14.0
+geopandas==0.13.2
+fastapi==0.101.0
+uvicorn==0.23.2
+pydantic==2.1.1

@@ -1,0 +1,1 @@
+System predykcji cen mieszkań z automatycznym monitoringiem ofert z polskich portali ogłoszeniowych. Aplikacja wykorzystuje web scraping, machine learning i analizę danych geograficznych do identyfikacji niedowartościowanych nieruchomości.# housing-price-predictor
